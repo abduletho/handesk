@@ -40,7 +40,7 @@ Its very simple, you just need to follow the standard Laravel installation
 git clone https://github.com/BadChoice/handesk.git
 cd handesk
 composer install
-# Setup your .env file to match you desired database
+# Setup your .env file to match your desired database
 php artisan key:generate
 php artisan migrate --seed
 php artisan storage:link #if you use the local driver
@@ -126,7 +126,7 @@ And you can join with the following [invitation](https://join.slack.com/t/handes
 
 Join in with the following link
 
-[Join handesk slack](https://join.slack.com/t/handesk/shared_invite/enQtMzg4MzE4ODcwNzg2LWM5ODU5NDNlNGNkYmM0NzY5NGRlZjRkZDhjZmI2NTQ3NjY3Y2RkZjI1NTgwMzJiMzAzNTcxNDFmYzE5ZjQxNTY)
+[Join handesk slack](https://join.slack.com/t/handesk/shared_invite/enQtMzg4MzE4ODcwNzg2LTlmZTk4NGRjZDA5N2ExYTI2ZDhhNzAyOThmMDM1YjgwZTMzZTQ5ZjkxNDVlNzIwY2ZkZWExN2U2NDUwNWFiOWU)
 
 ## Development
 We try to follow a TDD approach as well as some mixed functional CSS for the frontend.   
